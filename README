@@ -1,2 +1,12 @@
 Requires PCL 1.2
 Tested only for Ubuntu 12.04
+
+Usage:
+
+Run openni_grabber and hit enter in the terminal to take a point cloud snapshot
+
+Important:
+
+Currently you have to execute the following command after every time you run the program.
+
+killall XnSensorServer
